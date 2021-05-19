@@ -16,62 +16,77 @@ Replace ```<folder>``` with one of our folders and ```<icon name>``` with the ic
 Here you can see all existing buttons
 
 [![Button](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/ios-download.svg)](https://github.com/garlontas/buttons#svg-buttons)
+
 Embed this button with: ```[![Description here](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/ios-download.svg)](<Your Link here>)```
 
 
 [![Button](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/freebsd-download.svg)](https://github.com/garlontas/buttons#svg-buttons)
+
 Embed this button with: ```[![Description here](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/freebsd-download.svg)](<Your Link here>)```
 
 
 [![Button](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/gentoo-download.svg)](https://github.com/garlontas/buttons#svg-buttons)
+
 Embed this button with: ```[![Description here](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/gentoo-download.svg)](<Your Link here>)```
 
 
 [![Button](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/macos-download.svg)](https://github.com/garlontas/buttons#svg-buttons)
+
 Embed this button with: ```[![Description here](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/macos-download.svg)](<Your Link here>)```
 
 
 [![Button](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/linux-download.svg)](https://github.com/garlontas/buttons#svg-buttons)
+
 Embed this button with: ```[![Description here](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/linux-download.svg)](<Your Link here>)```
 
 
 [![Button](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/deb-download.svg)](https://github.com/garlontas/buttons#svg-buttons)
+
 Embed this button with: ```[![Description here](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/deb-download.svg)](<Your Link here>)```
 
 
 [![Button](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/debian-download.svg)](https://github.com/garlontas/buttons#svg-buttons)
+
 Embed this button with: ```[![Description here](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/debian-download.svg)](<Your Link here>)```
 
 
 [![Button](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/download.svg)](https://github.com/garlontas/buttons#svg-buttons)
+
 Embed this button with: ```[![Description here](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/download.svg)](<Your Link here>)```
 
 
 [![Button](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/rpm-download.svg)](https://github.com/garlontas/buttons#svg-buttons)
+
 Embed this button with: ```[![Description here](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/rpm-download.svg)](<Your Link here>)```
 
 
 [![Button](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/arch-download.svg)](https://github.com/garlontas/buttons#svg-buttons)
+
 Embed this button with: ```[![Description here](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/arch-download.svg)](<Your Link here>)```
 
 
 [![Button](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/ubuntu-download.svg)](https://github.com/garlontas/buttons#svg-buttons)
+
 Embed this button with: ```[![Description here](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/ubuntu-download.svg)](<Your Link here>)```
 
 
 [![Button](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/android-download.svg)](https://github.com/garlontas/buttons#svg-buttons)
+
 Embed this button with: ```[![Description here](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/android-download.svg)](<Your Link here>)```
 
 
 [![Button](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/slackware-download.svg)](https://github.com/garlontas/buttons#svg-buttons)
+
 Embed this button with: ```[![Description here](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/slackware-download.svg)](<Your Link here>)```
 
 
 [![Button](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/windows-download.svg)](https://github.com/garlontas/buttons#svg-buttons)
+
 Embed this button with: ```[![Description here](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/windows-download.svg)](<Your Link here>)```
 
 
 [![Button](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/snap-download.svg)](https://github.com/garlontas/buttons#svg-buttons)
+
 Embed this button with: ```[![Description here](https://raw.githubusercontent.com/garlontas/buttons/main/buttons/150x44/snap-download.svg)](<Your Link here>)```
 
 
