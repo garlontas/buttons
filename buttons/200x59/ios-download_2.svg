@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="200" height="59">
+
+<g transform="matrix(0.1953125 0 0 0.1966667 0 0)">
+	<g transform="matrix(1 0 0 1 0 0)">
+	</g>
+    <path transform="matrix(1 0 0 1 0 0)"  d="M0 0L1024 0L1024 300L0 300L0 0z" stroke="none" fill="none" />
+	<g transform="matrix(3.77 0 0 3.77 -672.75 -609.655)">
+	</g>
+    <path transform="matrix(3.77 0 0 3.77 -672.75 -609.655)"  d="M445 201.5C 445 220.554 429.554 236 410.5 236L410.5 236L215.5 236C 196.446 236 181 220.554 181 201.5C 181 182.446 196.446 167 215.5 167L215.5 167L410.5 167C 429.554 167 445 182.446 445 201.5z" stroke="none" fill="#000000" fill-rule="nonzero" />
+	<text transform="matrix(1.83 0 0 1.83 368.86 153.46)" x="0" y="0" style="fill:#FFFFFF;font-family:Times New Roman;font-weight:bold;" font-size="45">
+
+	</text>
+	<text transform="matrix(1.83 0 0 1.83 368.86 153.46)" x="-105.23" y="-11.29" style="fill:#FFFFFF;font-family:Times New Roman;font-weight:bold;" font-size="45">
+Download
+	</text>
+	<text transform="matrix(1.83 0 0 1.83 368.86 153.46)" x="82.2407" y="-11.29" style="fill:#FFFFFF;font-family:Times New Roman;font-weight:bold;" font-size="45">
+
+	</text>
+	<text transform="matrix(1.83 0 0 1.83 368.86 153.46)" x="-29.31" y="39.56" style="fill:#FFFFFF;font-family:Times New Roman;font-weight:bold;" font-size="45">
+for
+	</text>
+	<g transform="matrix(8.61 0 0 8.61 644.06 46.68)">
+	</g>
+    <path transform="matrix(8.61 0 0 8.61 644.06 46.68)"  d="M1.1 6.05C 0.486 6.05 0 6.53 0 7.13C -4.97185E-05 7.419933 0.116477 7.69771 0.3233627 7.900834C 0.5302484 8.103958 0.8101168 8.215369 1.1 8.21C 1.72 8.21 2.21 7.73 2.21 7.13C 2.21 6.53 1.72 6.05 1.1 6.05M8.71 6.07C 5.35 6.07 3.25 8.36 3.25 12C 3.25 15.67 5.35 17.95 8.71 17.95C 12.05 17.95 14.16 15.67 14.16 12C 14.16 8.36 12.05 6.07 8.71 6.07M19.55 6.07C 17.05 6.07 15.27 7.45 15.27 9.5C 15.27 11.13 16.28 12.15 18.4 12.64L18.4 12.64L19.89 13C 21.34 13.33 21.93 13.81 21.93 14.64C 21.93 15.6 20.96 16.28 19.58 16.28C 18.17 16.28 17.11 15.59 17 14.53L17 14.53L15 14.53C 15.08 16.65 16.82 17.95 19.46 17.95C 22.25 17.95 24 16.58 24 14.4C 24 12.69 23 11.72 20.68 11.19L20.68 11.19L19.35 10.89C 17.94 10.55 17.36 10.1 17.36 9.34C 17.36 8.38 18.24 7.74 19.54 7.74C 20.85 7.74 21.75 8.39 21.85 9.46L21.85 9.46L23.81 9.46C 23.76 7.44 22.09 6.07 19.55 6.07M8.71 7.82C 10.75 7.82 12.06 9.45 12.06 12C 12.06 14.57 10.75 16.2 8.71 16.2C 6.65 16.2 5.35 14.57 5.35 12C 5.35 9.45 6.65 7.82 8.71 7.82M0.111 9.31L0.111 17.76L2.1 17.76L2.1 9.31L0.11 9.31L1.1 6.05z" stroke="none" fill="#FFFFFF" fill-rule="nonzero" />
+</g>
+</svg>

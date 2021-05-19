@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="200" height="59">
+
+<g transform="matrix(0.1953125 0 0 0.1966667 0 0)">
+	<g transform="matrix(1 0 0 1 0 0)">
+	</g>
+    <path transform="matrix(1 0 0 1 0 0)"  d="M0 0L1024 0L1024 300L0 300L0 0z" stroke="none" fill="none" />
+	<g transform="matrix(3.77 0 0 3.77 -672.75 -609.655)">
+	</g>
+    <path transform="matrix(3.77 0 0 3.77 -672.75 -609.655)"  d="M445 201.5C 445 220.554 429.554 236 410.5 236L410.5 236L215.5 236C 196.446 236 181 220.554 181 201.5C 181 182.446 196.446 167 215.5 167L215.5 167L410.5 167C 429.554 167 445 182.446 445 201.5z" stroke="none" fill="#000000" fill-rule="nonzero" />
+	<text transform="matrix(1.88 0 0 1.88 602.87 150)" x="0" y="0" style="fill:#FFFFFF;font-family:Times New Roman;font-weight:bold;" font-size="45">
+
+	</text>
+	<text transform="matrix(1.88 0 0 1.88 602.87 150)" x="-134.54" y="-11.29" style="fill:#FFFFFF;font-family:Times New Roman;font-weight:bold;" font-size="45">
+Download for
+	</text>
+	<text transform="matrix(1.88 0 0 1.88 602.87 150)" x="116.6514" y="-11.29" style="fill:#FFFFFF;font-family:Times New Roman;font-weight:bold;" font-size="45">
+
+	</text>
+	<text transform="matrix(1.88 0 0 1.88 602.87 150)" x="-79.75" y="39.56" style="fill:#FFFFFF;font-family:Times New Roman;font-weight:bold;" font-size="45">
+Android
+	</text>
+	<g transform="matrix(8.26 0 0 8.26 117.98 50.96259)">
+	</g>
+    <path transform="matrix(8.26 0 0 8.26 117.98 50.96259)"  d="M24 19L0 19C 0.2384749 16.82854 0.996524 14.74648 2.21 12.93C 3.143221 11.48829 4.395493 10.28049 5.87 9.4L5.87 9.4L6.28 9.17L4.26 5.76C 4.11402 5.519698 4.190063 5.20658 4.43 5.06C 4.545092 4.991211 4.682989 4.97153 4.812728 5.005375C 4.942468 5.03922 5.053178 5.123756 5.12 5.24L5.12 5.24L7.2 8.74C 8.738609 8.125183 10.38323 7.819366 12.04 7.84C 13.66752 7.820141 15.28255 8.126148 16.79 8.74L16.79 8.74L18.86 5.24C 18.92849 5.122636 19.0418 5.038203 19.17385 5.006134C 19.30589 4.974065 19.44531 4.997123 19.56 5.07C 19.79639 5.219892 19.8678 5.532295 19.72 5.77L19.72 5.77L17.7 9.19L18.2 9.47C 19.66958 10.38487 20.91108 11.62295 21.83 13.09C 22.97803 14.877 23.71887 16.89469 24 19zM16.5 14.52C 16.5 15.07228 16.94772 15.52 17.5 15.52C 18.05228 15.52 18.5 15.07228 18.5 14.52C 18.5 13.96772 18.05228 13.52 17.5 13.52C 16.94772 13.52 16.5 13.96772 16.5 14.52zM5.5 14.52C 5.5 15.07228 5.947715 15.52 6.5 15.52C 7.052285 15.52 7.5 15.07228 7.5 14.52C 7.5 13.96772 7.052285 13.52 6.5 13.52C 5.947715 13.52 5.5 13.96772 5.5 14.52z" stroke="none" fill="#FFFFFF" fill-rule="nonzero" />
+</g>
+</svg>

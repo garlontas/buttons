@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="150" height="44">
+
+<g transform="matrix(0.1464844 0 0 0.1466667 0 0)">
+	<g transform="matrix(1 0 0 1 0 0)">
+	</g>
+    <path transform="matrix(1 0 0 1 0 0)"  d="M0 0L1024 0L1024 300L0 300L0 0z" stroke="none" fill="none" />
+	<g transform="matrix(3.77 0 0 3.77 -672.75 -609.655)">
+	</g>
+    <path transform="matrix(3.77 0 0 3.77 -672.75 -609.655)"  d="M445 201.5C 445 220.554 429.554 236 410.5 236L410.5 236L215.5 236C 196.446 236 181 220.554 181 201.5C 181 182.446 196.446 167 215.5 167L215.5 167L410.5 167C 429.554 167 445 182.446 445 201.5z" stroke="none" fill="#000000" fill-rule="nonzero" />
+	<text transform="matrix(1.88 0 0 1.88 671.38 150)" x="0" y="0" style="fill:#FFFFFF;font-family:Times New Roman;font-weight:bold;" font-size="64">
+
+	</text>
+	<text transform="matrix(1.88 0 0 1.88 671.38 150)" x="-141.69" y="20.1" style="fill:#FFFFFF;font-family:Times New Roman;font-weight:bold;" font-size="64">
+Download
+	</text>
+	<g transform="matrix(0.33 0 0 0.33 154.07 69.14999)">
+	</g>
+    <path transform="matrix(0.33 0 0 0.33 154.07 69.14999)"  d="M245 0C 235.5 0 227.8 7.7 227.8 17.2L227.8 17.2L227.8 348.4L169 289.6C 162.3 282.9 151.4 282.9 144.7 289.6C 138 296.3 138 307.2 144.7 313.9L144.7 313.9L232.8 402C 236.1 405.3 240.5 407 244.9 407C 249.3 407 253.7 405.3 257 402L257 402L345.1 313.9C 351.8 307.2 351.8 296.3 345.1 289.6C 338.4 282.9 327.5 282.9 320.8 289.6L320.8 289.6L262 348.4L262 17.1C 262.1 7.6 254.5 0 245 0z" stroke="none" fill="#FFFFFF" fill-rule="nonzero" />
+	<g transform="matrix(0.33 0 0 0.33 154.07 69.14998)">
+	</g>
+    <path transform="matrix(0.33 0 0 0.33 154.07 69.14998)"  d="M462.1 472.9L462.1 373.2C 462.1 363.7 454.4 356 444.9 356C 435.4 356 427.7 363.7 427.7 373.2L427.7 373.2L427.7 455.8L62.2 455.8L62.2 373.2C 62.2 363.7 54.5 356 45.1 356C 35.7 356 27.9 363.7 27.9 373.2L27.9 373.2L27.9 472.9C 27.9 482.4 35.6 490 45.1 490L45.1 490L444.9 490C 454.4 490 462.1 482.4 462.1 472.9z" stroke="none" fill="#FFFFFF" fill-rule="nonzero" />
+</g>
+</svg>
